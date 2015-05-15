@@ -21,7 +21,7 @@ import "C"
 
 import (
 	"fmt"
-	"github.com/skelterjohn/go.wde"
+	"github.com/sqweek/go.wde"
 	// "strings"
 )
 

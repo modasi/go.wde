@@ -23,7 +23,7 @@ import (
 	"github.com/BurntSushi/xgbutil/keybind"
 	"github.com/BurntSushi/xgbutil/xevent"
 	"github.com/BurntSushi/xgbutil/xgraphics"
-	"github.com/skelterjohn/go.wde"
+	"github.com/sqweek/go.wde"
 	"image"
 )
 

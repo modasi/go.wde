@@ -19,7 +19,7 @@ package win
 import (
 	"errors"
 	"github.com/AllenDang/w32"
-	"github.com/skelterjohn/go.wde"
+	"github.com/sqweek/go.wde"
 	"image"
 	"runtime"
 	"unsafe"
